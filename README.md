@@ -1,16 +1,21 @@
-### Hi there 👋
+### Gabriel Torres Takahashi
 
-<!--
-**GabrielTorresTakahashi/GabrielTorresTakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor 🇧🇷
 
-Here are some ideas to get you started:
+🚀 Apaixonado por React.js, React Native, Javascript, Node.js, MongoDB, e Material Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades
+
+- **Linguagens:** JavaScript (ES6+, CommonJS)
+- **Bibliotecas/Frameworks:** React.js, React Native, Flutter
+- **Backend:** Node.js, MongoDB, PHP, Dart, MySQL
+- **Design:** Material Design
+
+#### Educação
+
+- Bacharelado em Ciência da Computação | UNIVEM
+
+#### Contato
+
+📧 Email: gabrielspot1234@gmail.com
+📱 LinkedIn: [linkedin.com/in/gabrieltakahashi](https://www.linkedin.com/in/gabrieltakahashi/)
